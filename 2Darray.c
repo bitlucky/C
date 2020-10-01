@@ -1,4 +1,4 @@
-/*C program to input 2-D array of size 3*5.The
+/*C program to input 2-D array of size 3*5.The     
 display the matrix*/
 
 #include<stdio>
