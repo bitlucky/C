@@ -1,5 +1,4 @@
-/*C program to add two numbers using functions of
-type with no arguments and no return type*/
+
 
 #include<stdio.h>
 void sum();  // function for adding two numbers
